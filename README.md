@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @codeX-Crafter
-- 👀 I’m interested in designing
-- 🌱 I’m currently learning cpp
-- 💞️ I’m looking to collaborate on tech projects
+- 👋 Hi, Harshita this side
  
 
 <!---
